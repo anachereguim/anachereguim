@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Ana Carolina and welcome to my GitHub profile!😊
 
-<!--
-**anachereguim/anachereguim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ❤️ I'm studying computer science and I love to code.
+- 💻 I'm a software engineer intern at Ford Brasil.
+- 😉 Full-Stack
 
-Here are some ideas to get you started:
+<div>
+<a href="https://www.linkedin.com/in/anacarolinagarciac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/ana_ccher" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I know:
+<img src="https://www.ativasoft.com.br/blog/wp-content/uploads/2018/01/java_icon.png" width="40" height="40"/> <img src="https://image.pngaaa.com/552/2459552-middle.png" width="40" height="40"/><img src="https://e7.pngegg.com/pngimages/620/322/png-clipart-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle.png" width="40" height="40"/> <img src="https://flyclipart.com/thumb2/mongodb-atlas-hits-amazon-web-services-marketplace-499956.png" width="40" height="40"/><img src="https://pngset.com/images/mysql-logo-sea-life-animal-mammal-transparent-png-2425824.png" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="40" height="40"/><img src="https://img2.gratispng.com/20180330/owe/kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401.6404065315224546007438.jpg" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="40" height="40"/><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="40"/>
