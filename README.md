@@ -4,6 +4,8 @@
 - 💻 I'm a Jr Software Analyst at Ford Brasil.
 - 😉 Full-Stack
 
+Interested in learning about machine learning and IA.
+
 <div>
 <a href="https://www.linkedin.com/in/anacarolinagarciac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
