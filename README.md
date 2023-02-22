@@ -1,7 +1,7 @@
 ## Hi, I'm Ana Carolina and welcome to my GitHub profile!😊
 
-- ❤️ I'm studying computer science and I love to code.
-- 💻 I'm a software engineer intern at Ford Brasil.
+- ❤️ I'm studying computer science.
+- 💻 I'm a Jr Software Analyst at Ford Brasil.
 - 😉 Full-Stack
 
 <div>
