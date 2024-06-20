@@ -1,7 +1,7 @@
 ## Hi, I'm Ana Carolina and welcome to my GitHub profile!😊
 
 - ❤️ I'm studying computer science.
-- 💻 I'm a Jr Software Analyst at Ford Brasil.
+- 💻 I'm a Jr Software Engineer at Itaú Unibanco.
 - 😉 Full-Stack
 
 Interested in learning about machine learning and IA.
