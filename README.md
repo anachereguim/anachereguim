@@ -2,7 +2,7 @@
 
 - ❤️ I'm studying computer science.
 - 💻 I'm a Jr Software Engineer at Itaú Unibanco.
-- 😉 Full-Stack
+- 😉 Back-end
 
 Interested in learning about machine learning and IA.
 
